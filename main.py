@@ -8,7 +8,7 @@ add_apikey = input("Enter your apiKey :")
 
 def callingApi():
     res = req.get(
-        f"https://api.cricapi.com/v1/currentMatches?apikey={add_apikey}&offset=0")  # 20e2ae03-addd-4205-ad77-4c9b452b60fb
+        f"https://api.cricapi.com/v1/currentMatches?apikey={add_apikey}&offset=0") 
     cricket_data = res.json()
     return cricket_data
 
