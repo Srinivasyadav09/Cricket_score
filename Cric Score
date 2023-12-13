@@ -1,0 +1,44 @@
+
+res = req.get("https://api.cricapi.com/v1/currentMatches?apikey=20e2ae03-addd-4205-ad77-4c9b452b60fb")
+
+cricket_data = res.json()
+
+for x in cricket_data["data"]:
+
+    if len(x['score'])==2:
+        new_list = [x['score'][0]['inning'],x['score'][0]['r'],x['score'][0]['w'], x['score'][0]['o'],x['score'][1]['inning'],x['score'][1]['r'],x['score'][1]['w'], x['score'][1]['o']]
+        print(f' *********************************************************** {x["name"]} *******************************************************   ',"\n")
+        print(f'        {new_list[0]}    |  |    {new_list[4]}')
+        print(f'          Score :  {new_list[1]}/{new_list[2]}     |  |  Score : {new_list[5]}/{new_list[6]}')
+        print(f'           Overs :  {new_list[3]}         |  |    Overs :  {new_list[7]}')
+        print( f'          {x["status"]}        \n')
+    else:
+        list_2=[x['score'][0]['inning'],x['score'][0]['r'],x['score'][0]['w'], x['score'][0]['o'],0,0,0,0]
+        print(f' *********************************************************** {x["name"]} ******************************************************   ', "\n")
+        print(f'        {list_2[0]}    |  |    {list_2[4]}')
+        print(f'           Score :   {list_2[1]}/{list_2[2]}     |  |  Score :   {list_2[5]}/{list_2[6]}')
+        print(f'          Overs :  {list_2[3]}       |  |   Overs :   {list_2[7]}')
+        print(f'          {x["status"]}        \n')
+search=input("Enter a Country : ")
+for x in cricket_data["data"]:
+    if search in x["name"]:
+        if len(x['score']) == 2:
+            new_list = [x['score'][0]['inning'], x['score'][0]['r'], x['score'][0]['w'], x['score'][0]['o'],
+                        x['score'][1]['inning'], x['score'][1]['r'], x['score'][1]['w'], x['score'][1]['o']]
+            print(f'----------------------------------------------------------{x["name"]}----------------------------------------------------------', "\n")
+            print(f'        {new_list[0]}    |  |    {new_list[4]}')
+            print(f'                {new_list[1]}/{new_list[2]}     |  |      {new_list[5]}/{new_list[6]}')
+            print(f'               {new_list[3]}         |  |       {new_list[7]}')
+            print(f'          {x["status"]}        \n')
+        else:
+            list_2 = [x['score'][0]['inning'], x['score'][0]['r'], x['score'][0]['w'], x['score'][0]['o'], 0, 0, 0, 0]
+            print(
+                f'----------------------------------------------------------{x["name"]}----------------------------------------------------------',"\n")
+            print(f'        {list_2[0]}    |  |    {list_2[4]}')
+            print(f'             Score : {list_2[1]}/{list_2[2]}     |  |   Score :  {list_2[5]}/{list_2[6]}')
+            print(f'              Overs : {list_2[3]}         |  |     Overs : {list_2[7]}')
+            print(f'          {x["status"]}        \n')
+
+
+
+

@@ -1,0 +1,638 @@
+{
+  "apikey": "44ec8c3c-7416-4ce4-a961-9897155a2250",
+  "data": [
+    {
+      "id": "5adbd44e-f558-4d59-9c28-fecdb8217a21",
+      "name": "India U19 B vs Bangladesh U19, 4th Match",
+      "matchType": "odi",
+      "status": "Bangladesh U19 won by 7 wkts",
+      "venue": "Devineni Venkata Ramana Praneetha Ground, Mulapadu, Vijayawada",
+      "date": "2023-11-15",
+      "dateTimeGMT": "2023-11-15T03:30:00",
+      "teams": [
+        "India U19 B",
+        "Bangladesh U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh U19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "India U19 B",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 240,
+          "w": 10,
+          "o": 47.3,
+          "inning": "India U19 B Inning 1"
+        },
+        {
+          "r": 244,
+          "w": 3,
+          "o": 43.5,
+          "inning": "Bangladesh U19 Inning 1"
+        }
+      ],
+      "series_id": "7227016a-1984-4da3-907f-43d2b84ff65d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8f1fc916-9717-419c-9889-67ccb39d2c30",
+      "name": "India U19 A vs England U19, 3rd Match",
+      "matchType": "odi",
+      "status": "India U19 A won by 46 runs",
+      "venue": "Chukkapalli Pitchaiah Cricket Ground, Mulapadu, Vijayawada",
+      "date": "2023-11-15",
+      "dateTimeGMT": "2023-11-15T03:30:00",
+      "teams": [
+        "India U19 A",
+        "England U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "England U19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "India U19 A",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 293,
+          "w": 8,
+          "o": 50,
+          "inning": "India U19 A Inning 1"
+        },
+        {
+          "r": 247,
+          "w": 10,
+          "o": 48.1,
+          "inning": "England U19 Inning 1"
+        }
+      ],
+      "series_id": "7227016a-1984-4da3-907f-43d2b84ff65d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "be0f017d-5d77-4c15-a711-090f0e2fb409",
+      "name": "Hong Kong Women vs Japan Women, 2nd Match",
+      "matchType": "t20",
+      "status": "Hong Kong Women won by 9 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2023-11-15",
+      "dateTimeGMT": "2023-11-15T06:00:00",
+      "teams": [
+        "Hong Kong Women",
+        "Japan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong Women",
+          "shortname": "HKGW",
+          "img": "https://g.cricapi.com/iapi/1123-637877089446450033.webp?w=48"
+        },
+        {
+          "name": "Japan Women",
+          "shortname": "JPW",
+          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 78,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Japan Women Inning 1"
+        },
+        {
+          "r": 79,
+          "w": 1,
+          "o": 10.4,
+          "inning": "Hong Kong Women Inning 1"
+        }
+      ],
+      "series_id": "4b0e11e5-a455-4f6f-93a4-41799439e36c",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cbc387f0-9d0b-4dc2-9ae9-b2caeb16f6e6",
+      "name": "Nepal Women vs Tanzania Women, 1st Match",
+      "matchType": "t20",
+      "status": "Tanzania Women won by 27 runs",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2023-11-15",
+      "dateTimeGMT": "2023-11-15T01:30:00",
+      "teams": [
+        "Nepal Women",
+        "Tanzania Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Tanzania Women",
+          "shortname": "TAN-W",
+          "img": "https://g.cricapi.com/iapi/3614-638101761273860958.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 115,
+          "w": 7,
+          "o": 20,
+          "inning": "Tanzania Women Inning 1"
+        },
+        {
+          "r": 88,
+          "w": 10,
+          "o": 16.5,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "4b0e11e5-a455-4f6f-93a4-41799439e36c",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3a62bc59-da49-4b8f-a02c-afb01e9619e8",
+      "name": "Lions vs North West, 8th Match",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Lions opt to bat",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "date": "2023-11-13",
+      "dateTimeGMT": "2023-11-13T08:00:00",
+      "teams": [
+        "Lions",
+        "North West"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lions",
+          "shortname": "LIONS",
+          "img": "https://g.cricapi.com/iapi/43-638016114998237773.webp?w=48"
+        },
+        {
+          "name": "North West",
+          "shortname": "NWEST",
+          "img": "https://g.cricapi.com/iapi/60-637991981808951763.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 385,
+          "w": 3,
+          "o": 101,
+          "inning": "Lions Inning 1"
+        }
+      ],
+      "series_id": "2e6e5d05-ca97-4f92-9f7e-16f6e45d3438",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "20b8f9d2-e91e-4977-ab75-a20069759279",
+      "name": "Titans vs Dolphins, 7th Match",
+      "matchType": "test",
+      "status": "Match drawn",
+      "venue": "SuperSport Park, Centurion",
+      "date": "2023-11-11",
+      "dateTimeGMT": "2023-11-11T08:00:00",
+      "teams": [
+        "Titans",
+        "Dolphins"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dolphins",
+          "shortname": "DOL",
+          "img": "https://g.cricapi.com/iapi/20-637993514627926036.webp?w=48"
+        },
+        {
+          "name": "Titans",
+          "shortname": "TITNS",
+          "img": "https://g.cricapi.com/iapi/89-637987557693726758.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 293,
+          "w": 10,
+          "o": 85.5,
+          "inning": "Dolphins Inning 1"
+        },
+        {
+          "r": 409,
+          "w": 10,
+          "o": 114,
+          "inning": "Titans Inning 1"
+        },
+        {
+          "r": 322,
+          "w": 10,
+          "o": 96,
+          "inning": "Dolphins Inning 2"
+        },
+        {
+          "r": 136,
+          "w": 4,
+          "o": 35,
+          "inning": "Titans Inning 2"
+        }
+      ],
+      "series_id": "2e6e5d05-ca97-4f92-9f7e-16f6e45d3438",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "15475aac-7be4-4bb5-ade5-5747fb297968",
+      "name": "KwaZulu-Natal Inland vs Western Province, 6th Match",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Western Province trail by 213 runs",
+      "venue": "City Oval, Pietermaritzburg",
+      "date": "2023-11-11",
+      "dateTimeGMT": "2023-11-11T07:00:00",
+      "teams": [
+        "KwaZulu-Natal Inland",
+        "Western Province"
+      ],
+      "teamInfo": [
+        {
+          "name": "KwaZulu-Natal Inland",
+          "shortname": "KZ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Western Province",
+          "shortname": "WPR",
+          "img": "https://g.cricapi.com/iapi/104-637987555401464222.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 400,
+          "w": 10,
+          "o": 136.4,
+          "inning": "KwaZulu-Natal Inland Inning 1"
+        },
+        {
+          "r": 187,
+          "w": 0,
+          "o": 42,
+          "inning": "Western Province Inning 1"
+        }
+      ],
+      "series_id": "2e6e5d05-ca97-4f92-9f7e-16f6e45d3438",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bab57e1a-8353-4c32-8a02-89d4c95cf1bc",
+      "name": "Auckland vs Wellington, 12th Match",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Auckland opt to bat",
+      "venue": "Eden Park Outer Oval, Auckland",
+      "date": "2023-11-14",
+      "dateTimeGMT": "2023-11-14T21:30:00",
+      "teams": [
+        "Auckland",
+        "Wellington"
+      ],
+      "teamInfo": [
+        {
+          "name": "Auckland",
+          "shortname": "AKL",
+          "img": "https://g.cricapi.com/iapi/5-637993557414710285.webp?w=48"
+        },
+        {
+          "name": "Wellington",
+          "shortname": "WEL",
+          "img": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 267,
+          "w": 1,
+          "o": 97,
+          "inning": "Auckland Inning 1"
+        }
+      ],
+      "series_id": "4ae7759c-56a0-4a38-9dcd-20147d42c344",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6862ce72-8087-4e15-9d20-452e9f277e58",
+      "name": "Otago vs Northern Knights, 11th Match",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Otago lead by 83 runs",
+      "venue": "University Oval, Dunedin",
+      "date": "2023-11-14",
+      "dateTimeGMT": "2023-11-14T21:30:00",
+      "teams": [
+        "Otago",
+        "Northern Knights"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northern Knights",
+          "shortname": "NK",
+          "img": "https://g.cricapi.com/iapi/62-637992668006396208.webp?w=48"
+        },
+        {
+          "name": "Otago",
+          "shortname": "OTG",
+          "img": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 117,
+          "w": 10,
+          "o": 34.5,
+          "inning": "Northern Knights Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 5,
+          "o": 56.4,
+          "inning": "Otago Inning 1"
+        }
+      ],
+      "series_id": "4ae7759c-56a0-4a38-9dcd-20147d42c344",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "12b6e92a-d4e7-4f53-95b5-cdc8ec6d89c3",
+      "name": "Central Districts vs Canterbury, 10th Match",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Central Districts trail by 209 runs",
+      "venue": "McLean Park, Napier",
+      "date": "2023-11-14",
+      "dateTimeGMT": "2023-11-14T21:30:00",
+      "teams": [
+        "Central Districts",
+        "Canterbury"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canterbury",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=48"
+        },
+        {
+          "name": "Central Districts",
+          "shortname": "CD",
+          "img": "https://g.cricapi.com/iapi/16-637993517837161031.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 225,
+          "w": 10,
+          "o": 80,
+          "inning": "Canterbury Inning 1"
+        },
+        {
+          "r": 16,
+          "w": 0,
+          "o": 14,
+          "inning": "Central Districts Inning 1"
+        }
+      ],
+      "series_id": "4ae7759c-56a0-4a38-9dcd-20147d42c344",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "01b40bfd-43ed-4d5b-a096-e812a9e320bd",
+      "name": "India vs New Zealand, 1st Semi-Final (1st v 4th)",
+      "matchType": "odi",
+      "status": "India opt to bat",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2023-11-15",
+      "dateTimeGMT": "2023-11-15T08:30:00",
+      "teams": [
+        "India",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 327,
+          "w": 2,
+          "o": 44,
+          "inning": "India Inning 1"
+        }
+      ],
+      "series_id": "bd830e89-3420-4df5-854d-82cfab3e1e04",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "771b00a4-8138-42b5-b723-5a60ce069a51",
+      "name": "Western Australia vs South Australia, 13th Match",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Western Australia trail by 166 runs",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2023-11-15",
+      "dateTimeGMT": "2023-11-15T02:30:00",
+      "teams": [
+        "Western Australia",
+        "South Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "South Australia",
+          "shortname": "SAUS",
+          "img": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=48"
+        },
+        {
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 192,
+          "w": 10,
+          "o": 73.5,
+          "inning": "South Australia Inning 1"
+        },
+        {
+          "r": 26,
+          "w": 0,
+          "o": 14,
+          "inning": "Western Australia Inning 1"
+        }
+      ],
+      "series_id": "c9bd6244-b0de-4678-9254-9b70c90d55ff",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6eb61e84-ad88-4f92-b27d-26ad6988255b",
+      "name": "Adelaide Strikers Women vs Sydney Thunder Women, 40th Match",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 6 wkts",
+      "venue": "Karen Rolton Oval, Adelaide, South Australia",
+      "date": "2023-11-15",
+      "dateTimeGMT": "2023-11-15T04:30:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Sydney Thunder Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 118,
+          "w": 6,
+          "o": 20,
+          "inning": "Sydney Thunder Women Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 4,
+          "o": 17.5,
+          "inning": "Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "dd1f74a6-62d1-497f-b59c-7ea82f9fd7f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "84c6521f-6e92-4e48-89e4-a9dd0f4dbca0",
+      "name": "Brisbane Heat Women vs Hobart Hurricanes Women, 39th Match",
+      "matchType": "t20",
+      "status": "Brisbane Heat Women won by 53 runs",
+      "venue": "Allan Border Field, Brisbane",
+      "date": "2023-11-15",
+      "dateTimeGMT": "2023-11-15T01:00:00",
+      "teams": [
+        "Brisbane Heat Women",
+        "Hobart Hurricanes Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        },
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 184,
+          "w": 5,
+          "o": 20,
+          "inning": "Brisbane Heat Women Inning 1"
+        },
+        {
+          "r": 131,
+          "w": 10,
+          "o": 17.3,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        }
+      ],
+      "series_id": "dd1f74a6-62d1-497f-b59c-7ea82f9fd7f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 34,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 8,
+    "offsetRows": 0,
+    "totalRows": 14,
+    "queryTime": 27.0829,
+    "s": 0,
+    "cache": 0
+  }
+}
